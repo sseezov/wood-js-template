@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/sseezov/wood-js-template#readme",
   "dependencies": {
-    "@sseezov/wood-js": "^0.3.4",
+    "@sseezov/wood-js": "^0.3.5",
     "vite": "^8.0.10"
   }
 }

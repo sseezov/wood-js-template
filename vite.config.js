@@ -6,5 +6,6 @@ export default defineConfig({
     jsxInject: `import { h, Fragment } from '@sseezov/wood-js'`,
     jsxFragment: 'Fragment',
     jsx: 'transform',
+    jsxDev: false
   }
 })

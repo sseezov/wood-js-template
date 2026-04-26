@@ -1,0 +1,27 @@
+{
+  "name": "wood-js-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sseezov/wood-js-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sseezov/wood-js-template/issues"
+  },
+  "homepage": "https://github.com/sseezov/wood-js-template#readme",
+  "dependencies": {
+    "@sseezov/wood-js": "latest",
+    "vite": "^8.0.10"
+  }
+}
